@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655832624 source:c:\langagec\binarygrid\main.c
+	<stdio.h>
+	<stdlib.h>
+
