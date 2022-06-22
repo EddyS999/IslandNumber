@@ -7,12 +7,15 @@ An island is surrounded by water and is formed by connecting adjacent lands hori
 ![1_mwTx15TeukmS4XqmmtmRLQ](https://user-images.githubusercontent.com/71152540/175176039-7c72592d-3706-4583-9fcc-82ce5f072e33.png)
 
 ## Example :
-                  
-1, 1, 1    
-1, 0, 0    
-1, 0, 1         
+
+input =     
+
+1, 1, 1, 0, 1    
+1, 0, 0, 1, 1    
+1, 0, 1, 0, 1
+0, 0, 0, 0, 1
   
-output : 2 
+output = 3 
 
 
  ## Screen 
