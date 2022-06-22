@@ -15,5 +15,7 @@ An island is surrounded by water and is formed by connecting adjacent lands hori
 output : 6 
 
 
- 
+ ## Screen 
+ ![image](https://user-images.githubusercontent.com/71152540/175174691-673f6fca-63e7-43ee-afb2-fa4490f062a3.png)
+
                    
